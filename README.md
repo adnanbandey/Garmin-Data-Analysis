@@ -6,8 +6,8 @@ Key Insights: <br>
 -**Step Count & Resting Heart Rate**: Identified the optimal daily step range (6-7k steps) that correlates with a lower resting heart rate (~35-40 bpm). <br>
 -**Active Hours & Stress Levels**: Observed a significant drop in stress levels when daily active hours exceed 2, which serves as my new fitness goal.
 
-What's Included:
-Data preprocessing (cleaning and filtering)
-Time-series analysis of activity and stress trends
-Visualizations showing correlations between fitness metrics
-Outlier detection to ensure data quality
+What's Included:  <br>
+Data preprocessing (cleaning and filtering)  <br>
+Time-series analysis of activity and stress trends  <br>
+Visualizations showing correlations between fitness metrics  <br>
+Outlier detection to ensure data quality  <br>
