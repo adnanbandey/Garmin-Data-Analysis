@@ -11,3 +11,9 @@ Data preprocessing (cleaning and filtering)  <br>
 Time-series analysis of activity and stress trends  <br>
 Visualizations showing correlations between fitness metrics  <br>
 Outlier detection to ensure data quality  <br>
+
+<img width="797" alt="Screenshot 2024-11-03 at 5 55 29 PM" src="https://github.com/user-attachments/assets/cf01b6df-0c75-49ee-847f-9abceae105dd">
+
+<img width="811" alt="Screenshot 2024-11-03 at 5 55 45 PM" src="https://github.com/user-attachments/assets/e9bfb031-ff89-413d-aea2-acf65bb124a3">
+
+<img width="739" alt="Screenshot 2024-11-03 at 5 39 01 PM" src="https://github.com/user-attachments/assets/098ea857-5154-4219-8012-368e659daae1">
